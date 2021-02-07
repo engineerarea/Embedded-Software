@@ -1,2 +1,2 @@
-# Embedded-Softare
-Embedded Softare
+# Embedded-Software
+Embedded Software
